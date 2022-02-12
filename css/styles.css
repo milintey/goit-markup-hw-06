@@ -595,6 +595,7 @@ img {
 
 .form-link {
   color: var(--accent-color);
+  padding-left: 5px;
 }
 
 .form-btn {
