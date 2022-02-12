@@ -459,8 +459,8 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-cloce-btn:hover,
-.modal-cloce-btn:focus {
+.modal-cloce-btn:hover .modal-icon,
+.modal-cloce-btn:focus .modal-icon {
   fill: var(--accent-color);
 }
 
